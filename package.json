@@ -1,7 +1,7 @@
 {
   "name": "like-whois",
   "version": "0.0.0",
-  "description": "",
+  "description": "Query registered domain names and IP addresses",
   "main": "index.js",
   "files": [],
   "scripts": {

@@ -1,6 +1,6 @@
 # like-whois
 
-Query databases for information about registered domain names and IP addresses
+Query registered domain names and IP addresses
 
 ```
 npm i like-whois
